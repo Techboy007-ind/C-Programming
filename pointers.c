@@ -118,7 +118,7 @@ void swap(int *x,int *y){
 }*/
 
 // Taking input of n cities using pointers
-int main(){
+/*int main(){
     int n;
     char cities[10][30];
     char (*ptr)[30];
@@ -135,5 +135,5 @@ int main(){
     }
     return 0;
 
-}
+}*/
 
